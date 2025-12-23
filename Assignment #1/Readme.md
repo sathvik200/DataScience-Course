@@ -1,13 +1,13 @@
 <H1>Task #1</H1>
-1.  Takes two numbers as input from the user.
-2.  Performs the basic mathematical operations on these two numbers:
-  o	Addition
-  o	Subtraction
-  o	Multiplication
-  o	Division
-3.  Displays the results of each operation on the screen.
+1.  Takes two numbers as input from the user.<br>
+2.  Performs the basic mathematical operations on these two numbers:<br>
+  o	Addition<br>
+  o	Subtraction<br>
+  o	Multiplication<br>
+  o	Division<br>
+3.  Displays the results of each operation on the screen.<br>
 
 <H1>Task #2</H1>
-1.  Takes a user's first name and last name as input.
-2.  Concatenates the first name and last name into a full name.
-3.  Prints a personalized greeting message using the full name.
+1.  Takes a user's first name and last name as input.<br>
+2.  Concatenates the first name and last name into a full name.<br>
+3.  Prints a personalized greeting message using the full name.<br>
